@@ -1,5 +1,10 @@
+@font-face {
+    font-family: Impact;
+    src: url('Impacted.ttf') format('truetype');
+}
+
 body{
-    font-family: fantasy;
+    font-family: Impact;
     background: #f2f2eb;
 }
 .animation-box{
